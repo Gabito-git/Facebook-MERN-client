@@ -1,0 +1,11 @@
+.histories{
+    justify-content: space-between;
+    padding-top: 2rem;
+    display: none;
+
+  
+
+    @include medium{
+        display: flex;
+    }
+}
