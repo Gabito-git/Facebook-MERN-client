@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Facebook-MERN-client/static/css/main.dc17d993.chunk.css",
-    "main.js": "/Facebook-MERN-client/static/js/main.e1a93f0f.chunk.js",
-    "main.js.map": "/Facebook-MERN-client/static/js/main.e1a93f0f.chunk.js.map",
+    "main.js": "/Facebook-MERN-client/static/js/main.29173378.chunk.js",
+    "main.js.map": "/Facebook-MERN-client/static/js/main.29173378.chunk.js.map",
     "runtime-main.js": "/Facebook-MERN-client/static/js/runtime-main.6b4496ee.js",
     "runtime-main.js.map": "/Facebook-MERN-client/static/js/runtime-main.6b4496ee.js.map",
-    "static/js/2.ad8c5fc8.chunk.js": "/Facebook-MERN-client/static/js/2.ad8c5fc8.chunk.js",
-    "static/js/2.ad8c5fc8.chunk.js.map": "/Facebook-MERN-client/static/js/2.ad8c5fc8.chunk.js.map",
+    "static/js/2.ffd47c47.chunk.js": "/Facebook-MERN-client/static/js/2.ffd47c47.chunk.js",
+    "static/js/2.ffd47c47.chunk.js.map": "/Facebook-MERN-client/static/js/2.ffd47c47.chunk.js.map",
     "index.html": "/Facebook-MERN-client/index.html",
     "static/css/main.dc17d993.chunk.css.map": "/Facebook-MERN-client/static/css/main.dc17d993.chunk.css.map",
-    "static/js/2.ad8c5fc8.chunk.js.LICENSE.txt": "/Facebook-MERN-client/static/js/2.ad8c5fc8.chunk.js.LICENSE.txt"
+    "static/js/2.ffd47c47.chunk.js.LICENSE.txt": "/Facebook-MERN-client/static/js/2.ffd47c47.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6b4496ee.js",
-    "static/js/2.ad8c5fc8.chunk.js",
+    "static/js/2.ffd47c47.chunk.js",
     "static/css/main.dc17d993.chunk.css",
-    "static/js/main.e1a93f0f.chunk.js"
+    "static/js/main.29173378.chunk.js"
   ]
 }
